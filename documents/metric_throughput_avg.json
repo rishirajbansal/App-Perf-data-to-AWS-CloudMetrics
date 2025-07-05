@@ -1,0 +1,11 @@
+[
+    {
+        "metricNamespace": "NAMESPACE_PH",
+        "metricName": "METRICNAME_PH",
+        "metricValue": "$.throughput.average",
+        "unit": "Bytes/Second",
+        "dimensions": {
+            "Title": "$.title"
+        }
+    }
+]

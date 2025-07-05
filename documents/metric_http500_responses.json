@@ -1,0 +1,11 @@
+[
+    {
+        "metricNamespace": "NAMESPACE_PH",
+        "metricName": "METRICNAME_PH",
+        "metricValue": "1",
+        "unit": "Count",
+        "dimensions": {
+            "Title": "$.title"
+        }
+    }
+]

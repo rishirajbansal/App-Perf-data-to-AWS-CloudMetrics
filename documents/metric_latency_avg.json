@@ -1,0 +1,11 @@
+[
+    {
+        "metricNamespace": "NAMESPACE_PH",
+        "metricName": "METRICNAME_PH",
+        "metricValue": "$.latency.average",
+        "unit": "Milliseconds",
+        "dimensions": {
+            "Title": "$.title"
+        }
+    }
+]

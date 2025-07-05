@@ -1,0 +1,11 @@
+[
+    {
+        "metricNamespace": "NAMESPACE_PH",
+        "metricName": "METRICNAME_PH",
+        "metricValue": "$.requestVolume.average",
+        "unit": "Count/Second",
+        "dimensions": {
+            "Title": "$.title"
+        }
+    }
+]
